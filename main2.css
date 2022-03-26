@@ -1,0 +1,68 @@
+.body{
+    background-color: aqua;
+}
+.logo2{
+    border-radius: 10px;
+}
+.ul{
+    display: inline-block;
+    list-style: none;
+}
+.li{
+    display: inline-block;
+}
+.section{
+    display: inline-block;
+}
+.h4{display: inline-block;
+    width:50%;
+}
+.rasm22{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+.pr{
+    display: inline-block;
+}
+.our{
+    text-align: center;
+}
+.ramkaota{
+    display: flex;
+    justify-content: center;
+}
+.ramka{
+    display: flex;
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+    border: 5px solid red;
+    border-radius: 20px;
+    align-items: center;
+}
+.lupa{
+    display: flex;
+    align-items: flex-start;
+   width: 10%;
+   height: 30%;
+    
+}
+.idiw{
+    width: 30%;
+    height: 30%;
+      
+}
+.royxat3{
+    width: 30%;
+    height: 30%;
+      
+}
+.sumka{
+    width: 30%;
+    height: 30%;
+}
+.royxat3{
+    width: 30%;
+    height: 30%;
+}
